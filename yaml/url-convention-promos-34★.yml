@@ -1,0 +1,114 @@
+---
+object: card
+id: d7e4b490-e435-41bd-9877-6bfed57874f0
+oracle_id: d8c70f2f-985c-4982-97eb-99da3810e048
+multiverse_ids: []
+tcgplayer_id: 218313
+cardmarket_id: 245058
+name: Shepherd of the Lost
+lang: ja
+released_at: '2009-10-03'
+uri: https://api.scryfall.com/cards/d7e4b490-e435-41bd-9877-6bfed57874f0
+scryfall_uri: https://scryfall.com/card/purl/34%E2%98%85/ja/shepherd-of-the-lost?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/7/d7e4b490-e435-41bd-9877-6bfed57874f0.jpg?1621397460
+  normal: https://cards.scryfall.io/normal/front/d/7/d7e4b490-e435-41bd-9877-6bfed57874f0.jpg?1621397460
+  large: https://cards.scryfall.io/large/front/d/7/d7e4b490-e435-41bd-9877-6bfed57874f0.jpg?1621397460
+  png: https://cards.scryfall.io/png/front/d/7/d7e4b490-e435-41bd-9877-6bfed57874f0.png?1621397460
+  art_crop: https://cards.scryfall.io/art_crop/front/d/7/d7e4b490-e435-41bd-9877-6bfed57874f0.jpg?1621397460
+  border_crop: https://cards.scryfall.io/border_crop/front/d/7/d7e4b490-e435-41bd-9877-6bfed57874f0.jpg?1621397460
+mana_cost: "{4}{W}"
+cmc: 5.0
+type_line: Creature — Angel
+oracle_text: Flying, first strike, vigilance
+power: '3'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+- Vigilance
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: a9fbcd3c-290f-4fa1-b227-dbab037c0c91
+set: purl
+set_name: URL/Convention Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/a9fbcd3c-290f-4fa1-b227-dbab037c0c91
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apurl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/purl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d7e4b490-e435-41bd-9877-6bfed57874f0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8c70f2f-985c-4982-97eb-99da3810e048&unique=prints
+collector_number: 34★
+digital: false
+rarity: uncommon
+watermark: dengekimaoh
+flavor_text: |-
+  www.MagicTheGathering.com
+  www.mtg-jp.com
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kekai Kotaki
+artist_ids:
+- 4b771085-c049-4308-930d-ec9665f803a4
+illustration_id: ccfd66f8-8cde-491f-8453-f90a27c0e440
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- convention
+edhrec_rank: 19379
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: '95.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shepherd+of+the+Lost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shepherd+of+the+Lost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shepherd+of+the+Lost
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/218313?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shepherd+of+the+Lost&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shepherd+of+the+Lost&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

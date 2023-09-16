@@ -1,0 +1,15 @@
+---
+object: set
+id: a9fbcd3c-290f-4fa1-b227-dbab037c0c91
+code: purl
+name: URL/Convention Promos
+uri: https://api.scryfall.com/sets/a9fbcd3c-290f-4fa1-b227-dbab037c0c91
+scryfall_uri: https://scryfall.com/sets/purl
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apurl&unique=prints
+released_at: '2009-02-08'
+set_type: promo
+card_count: 8
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/star.svg?1694404800
